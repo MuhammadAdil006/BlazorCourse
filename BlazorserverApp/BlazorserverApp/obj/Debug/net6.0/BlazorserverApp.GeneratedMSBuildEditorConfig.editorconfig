@@ -8,53 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorserverApp
 build_property.RootNamespace = BlazorserverApp
-build_property.ProjectDir = C:\Users\grengo\Desktop\Asp.net\BlazorserverApp\BlazorserverApp\
+build_property.ProjectDir = C:\Users\grengo\Desktop\BlazorCourse\BlazorserverApp\BlazorserverApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\grengo\Desktop\Asp.net\BlazorserverApp\BlazorserverApp
+build_property.MSBuildProjectDirectory = C:\Users\grengo\Desktop\BlazorCourse\BlazorserverApp\BlazorserverApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/App.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Pages/Counter.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/controls/MySecondComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29udHJvbHNcTXlTZWNvbmRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Pages/FetchData.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Pages/Index.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Shared/SurveyPrompt.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/MyFirstComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlGaXJzdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/_Imports.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Shared/MainLayout.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-br2ddj518i
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Shared/NavMenu.razor]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-g43wdqfbxo
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Pages/Error.cshtml]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Pages/_Host.cshtml]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/grengo/Desktop/Asp.net/BlazorserverApp/BlazorserverApp/Pages/_Layout.cshtml]
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorserverApp/BlazorserverApp/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
