@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22a0b85a-045b-4a91-8400-13f701abc0f9": {
+      "ProjectGuid": "22a0b85a-045b-4a91-8400-13f701abc0f9",
+      "DisplayName": "BlazorserverApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
