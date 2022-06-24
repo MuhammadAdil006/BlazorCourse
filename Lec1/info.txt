@@ -1,0 +1,13 @@
+webassembly (data is downloaded at client side)
+server app (data is fetched from sever)
+
+webassembly and .net core(3 projects)
+
+
+//pages structure
+
+1st part contains routing path(Directives)
+
+2nd part contains html elements(markup)
+
+3rd part contains c sharp code(logic)
