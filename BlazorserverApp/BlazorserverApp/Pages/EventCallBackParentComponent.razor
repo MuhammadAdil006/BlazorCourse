@@ -1,7 +1,9 @@
-﻿<h3>EventCallBackParentComponent</h3>
+﻿@page "/pcevent"
+
+<h3>EventCallBackParentComponent</h3>
 <p>now here below msg will be displayed</p>
 <p>@message</p>
-<EventCallBackChildComponent @OnclickTextChange="MyMessage"></EventCallBackChildComponent>
+<EventCallBackChildComponent OnclickTextChange="MyMessage"></EventCallBackChildComponent>
 @code {
     public String message { get; set; } = "default";
     void MyMessage(String msg)
