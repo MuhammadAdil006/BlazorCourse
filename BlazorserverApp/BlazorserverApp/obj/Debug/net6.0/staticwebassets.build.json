@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+PQmLoM/KL4TP7eMnoOHhPjsFwSiuSSOCeWauZhVapY=",
+  "Hash": "z7FpbOCHW8rhV2g9jnoQgYHTAKniHi/jy7hy/KcunXI=",
   "Source": "BlazorserverApp",
   "BasePath": "_content/BlazorserverApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorserverApp\\wwwroot",
       "Source": "BlazorserverApp",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorserverApp.styles.css",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorserverApp.styles.css",
       "SourceId": "BlazorserverApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "BlazorserverApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorserverApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorserverApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorserverApp.bundle.scp.css",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorserverApp.bundle.scp.css",
       "SourceId": "BlazorserverApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "BlazorserverApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorserverApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorserverApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\css\\site.css",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\favicon.ico",
       "SourceId": "BlazorserverApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\wwwroot\\",
       "BasePath": "_content/BlazorserverApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
