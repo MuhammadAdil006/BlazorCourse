@@ -4,8 +4,11 @@
     <ChildComponent Title="i am passing some title from parent to child"></ChildComponent>
     <a href="/RP/somtitle/34">route paramter component with paramters</a>
     <a hreg="/RP">without paramter routing</a>
-    <CascadingValue Value=@Name Name="Name">
-        <CascadingValue Value=@Id Name="Id">
+    <CascadingValue Value="@Name" Name="Name" IsFixed="true">
+        <CascadingValue Value="@Id" Name="Id">
+            @*now there may be pergformance issues as asp.net will keep an eye on these cascade values*@
+            @*to avoid add is fiexed true*@
+            @*that will tell this will not change*@
             <CascadingCHildComponent></CascadingCHildComponent>
         </CascadingValue>
          
