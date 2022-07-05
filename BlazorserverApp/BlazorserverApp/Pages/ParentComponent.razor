@@ -4,7 +4,18 @@
     <ChildComponent Title="i am passing some title from parent to child"></ChildComponent>
     <a href="/RP/somtitle/34">route paramter component with paramters</a>
     <a hreg="/RP">without paramter routing</a>
+    <CascadingValue Value=@Name Name="Name">
+        <CascadingValue Value=@Id Name="Id">
+            <CascadingCHildComponent></CascadingCHildComponent>
+        </CascadingValue>
+         
+    </CascadingValue>
 </div>
+@*now we want to send some data to its child and then also grand child component*@
+@*this can be done using cascading parameter*@
 @code {
+    [Parameter]
+    public String? Name { get; set; } = "User Name adil";
+    public int? Id { get; set; } = 12;
 
 }

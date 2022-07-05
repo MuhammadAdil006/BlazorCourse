@@ -1,0 +1,10 @@
+﻿<h3>CascadinggRANDCHildComponent</h3>
+
+<p>@Name</p>
+<p>@Id</p>
+@code {
+    [CascadingParameter(Name ="Name")]
+    public String? Name{ get; set; }
+    [CascadingParameter(Name ="Id")]
+    public int? Id{ get; set; }
+}

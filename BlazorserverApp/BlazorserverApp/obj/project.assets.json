@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\BlazorserverApp.csproj",
+      "projectUniqueName": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\BlazorserverApp.csproj",
       "projectName": "BlazorserverApp",
-      "projectPath": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\BlazorserverApp.csproj",
+      "projectPath": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\BlazorserverApp.csproj",
       "packagesPath": "C:\\Users\\grengo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\",
+      "outputPath": "C:\\Users\\grengo\\Desktop\\BlazorCourse\\BlazorCourse\\BlazorserverApp\\BlazorserverApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grengo\\AppData\\Roaming\\NuGet\\NuGet.Config",
