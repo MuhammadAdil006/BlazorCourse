@@ -1,0 +1,21 @@
+﻿@page "/RP/{Title}/{Id:int}"
+@page "/RP"
+@*this section is about route parameters*@
+@*you have to defing variable in curly braces and its type if other than string*@
+
+<h2> @Title</h2>
+<p>@Id</p>
+
+@code {
+    [Parameter]
+    public String? Title { get; set; }
+    [Parameter]
+    public int? Id{ get; set; }
+    //which ever is not null will be selected
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        Title = Title ?? "default";
+        Id = Id ?? 0;
+    }
+}
