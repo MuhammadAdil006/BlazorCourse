@@ -1,6 +1,7 @@
 ﻿<h3>EventCallBackChildComponent</h3>
 @*now here we have to define event call back parameter*@
 <button @onclick="@Method">click me to change text in parent</button>
+
 @code {
     [Parameter]
     public EventCallback<String> OnclickTextChange { get; set; }

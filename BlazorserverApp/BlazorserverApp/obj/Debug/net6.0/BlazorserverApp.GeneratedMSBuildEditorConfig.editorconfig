@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Y29udHJvbHNcQ2hpbGRDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/grengo/Desktop/BlazorCourse/BlazorCourse/BlazorserverApp/BlazorserverApp/controls/ChildPropertiesTriggerComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Y29udHJvbHNcQ2hpbGRQcm9wZXJ0aWVzVHJpZ2dlckNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/grengo/Desktop/BlazorCourse/BlazorCourse/BlazorserverApp/BlazorserverApp/controls/EventCallBackChildComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Y29udHJvbHNcRXZlbnRDYWxsQmFja0NoaWxkQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
