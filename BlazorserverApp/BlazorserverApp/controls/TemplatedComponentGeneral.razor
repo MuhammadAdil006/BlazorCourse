@@ -1,0 +1,13 @@
+﻿@typeparam items
+<h3>TemplatedComponentGeneral</h3>
+@foreach(items i in list)
+{
+    @MySection4(i);
+}
+
+@code {
+    [Parameter]
+    public List<items> list { get; set; } 
+    [Parameter]
+    public RenderFragment<items> MySection4{get;set;}
+}
