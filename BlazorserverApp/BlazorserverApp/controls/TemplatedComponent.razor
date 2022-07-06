@@ -1,4 +1,5 @@
-﻿<h3>TemplatedComponent</h3>
+﻿@using BlazorserverApp.Models
+<h3>TemplatedComponent</h3>
 
 <div>
     @Mysection
@@ -8,10 +9,28 @@
 <br />
 <div>
     @Mysection2
+</div><br />
+<br />
+<div>
+    @foreach (Product p in a)
+    {
+        @Mysection3(p)
+    }
+
 </div>
 @code {
+    List<Product> a = new List<Product>{
+    new Product{Id=1,Name="car",Price=2345 },
+    new Product{Id=2,Name="remote",Price=2345},
+    new Product{Id=3,Name="helicopter",Price=2345}
+    };
+
+
     [Parameter]
     public RenderFragment Mysection { get; set; }
     [Parameter]
     public RenderFragment Mysection2 { get; set; }
+   
+    [Parameter]
+    public RenderFragment<Product> Mysection3{ get; set; }
 }
