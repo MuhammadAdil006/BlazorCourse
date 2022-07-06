@@ -1,0 +1,17 @@
+﻿<h3>TemplatedComponent</h3>
+
+<div>
+    @Mysection
+</div>
+
+<br />
+<br />
+<div>
+    @Mysection2
+</div>
+@code {
+    [Parameter]
+    public RenderFragment Mysection { get; set; }
+    [Parameter]
+    public RenderFragment Mysection2 { get; set; }
+}
