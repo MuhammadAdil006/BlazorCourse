@@ -13,12 +13,24 @@
         </CascadingValue>
          
     </CascadingValue>
+    <p>
+    clicking on this button wil change text in child i mean it willtrigger properties meth0d on child</p>
+    <button @onclick="trigger">Click to trigger child properties</button>
+    
+<ChildPropertiesTriggerComponent @ref="c1"></ChildPropertiesTriggerComponent>
+    
 </div>
 @*now we want to send some data to its child and then also grand child component*@
 @*this can be done using cascading parameter*@
 @code {
+    private ChildPropertiesTriggerComponent c1;
     [Parameter]
     public String? Name { get; set; } = "User Name adil";
     public int? Id { get; set; } = 12;
+    public void trigger()
+    {
+        c1.Show();
+
+    }
 
 }
