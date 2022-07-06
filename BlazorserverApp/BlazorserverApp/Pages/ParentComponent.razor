@@ -1,4 +1,5 @@
-﻿@page "/pc"
+﻿@using BlazorserverApp.Models;
+@page "/pc"
 <div>
     <h3>ParentComponent</h3>
     <ChildComponent Title="i am passing some title from parent to child"></ChildComponent>
@@ -76,9 +77,23 @@
        <p>@MyPro.Price</p>
    </Mysection3>
 </TemplatedComponent>
+<TemplatedComponentGeneral list="@l" items="Product">
+    <MySection4 Context="Pro">
+        <p>@Pro.Id</p>
+        <p>@Pro.Name</p>
+        <p>@Pro.Price</p>
+    </MySection4>
+</TemplatedComponentGeneral>
 @code {
+      public List<Product> l = new List<Product>{
+
+        new Product{Id=34,Name="aslam",Price=242 },
+        new Product{Id=24,Name="aslajdfkm",Price=242 }
+    };
     [Parameter]
     public String? Name { get; set; } = "User Name adil";
+    [Parameter]
     public int? Id { get; set; } = 12;
-
+    
+  
 }
