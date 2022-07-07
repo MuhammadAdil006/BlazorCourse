@@ -13,6 +13,13 @@
 @*now there is anther way to reflect change in input to data source*@
 @*adding the onchange funciton*@
 
+
+@*now we want to bind parent and child component*@
+
+<p>From parent data binding</p>
+<button @onclick="update">click me to change value</button>
+<p>@num</p>
+<TwoWayBindComponent @bind-parentNumber="@num" @bind-parentNumber:event="parentN"></TwoWayBindComponent>
 @code {
     
     public int num {get;set;}=0;

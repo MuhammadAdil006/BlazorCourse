@@ -1,0 +1,16 @@
+﻿<h3>TwoWayBindComponent</h3>
+<p>from parent number  @parentNumber</p>
+<button @onclick="UpdateValue">click to change from child</button>
+
+@code {
+    [Parameter]
+    public int parentNumber{ get; set;  }
+    [Parameter]
+    public EventCallback<int> parentN{ get; set; }
+
+    void UpdateValue()
+    {
+        parentNumber++;
+        parentN.InvokeAsync(parentNumber);
+    }
+}
