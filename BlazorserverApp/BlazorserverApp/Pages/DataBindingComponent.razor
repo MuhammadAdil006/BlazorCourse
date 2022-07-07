@@ -1,0 +1,33 @@
+﻿@page "/Binding"
+
+@*one way data binding cuases only to change in data source and read only*@
+@*two way data binding causes to change from input value to data source two way binding*@
+
+<h3>DataBindingComponent</h3>
+<input type="number" @bind="@num" @bind:event="oninput"/>
+<input type ="checkbox" @bind="@isChecked" @bind:event="onchange"/>
+<button @onclick="update">change value</button>
+<p>@num</p>
+<p>@isChecked</p>
+  
+@*now there is anther way to reflect change in input to data source*@
+@*adding the onchange funciton*@
+
+@code {
+    
+    public int num {get;set;}=0;
+    bool isChecked=false;
+
+    void update()
+    {
+        num++;
+        isChecked=!isChecked;
+    }
+    //void change(ChangeEventArgs e)
+    //{
+    //    int val=0;
+    //    Int.TryParse(e.value.toString(),out val);
+    //    num=val;
+    //}
+
+}
